@@ -48,14 +48,16 @@ Copy
 Edit
 cd stopwatch-web-app
 open index.html
-✅ TODO
+```
+
+# ✅ TODO
  Add keyboard shortcuts
 
  Option to export lap times
 
  Dark mode toggle
 
-📄 License
+# 📄 License
 This project is open source and available under the MIT License.
 
 Feel free to fork and contribute! 🚧
