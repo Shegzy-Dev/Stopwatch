@@ -51,11 +51,11 @@ open index.html
 ```
 
 # ✅ TODO
- Add keyboard shortcuts
+- Add keyboard shortcuts
 
- Option to export lap times
+- Option to export lap times
 
- Dark mode toggle
+- Dark mode toggle
 
 # 📄 License
 This project is open source and available under the MIT License.
